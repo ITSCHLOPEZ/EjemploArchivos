@@ -1,1 +1,11 @@
 Este es un archivo creado por armando
+
+Vamos a realizar una modificacion del archivo 
+para la primera rama.
+
+P
+r
+u
+e
+b
+a
